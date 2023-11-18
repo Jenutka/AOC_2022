@@ -20,3 +20,5 @@ top_three += elves.pop(top_index)
 top_index = int(elves.index(max(elves)))
 top_three += elves.pop(top_index)
 print(top_three)
+
+#fugitive testing
